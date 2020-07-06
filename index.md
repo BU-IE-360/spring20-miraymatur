@@ -6,4 +6,4 @@
 
 
 ## Project Report(Group 5)
-[Here](https://github.com/BU-IE-360/spring20-miraymatur/blob/master/IE360_Project_Group5.html) is the project report of Group 5.And [Here](https://htmlpreview.github.io/?https://github.com/BU-IE-360/spring20-miraymatur/blob/master/IE360_Project_Group5.html) is the preview.
+[Here](https://github.com/BU-IE-360/spring20-miraymatur/blob/master/IE360_Project_Group5.html) is the project report of Group 5 and [Here](https://htmlpreview.github.io/?https://github.com/BU-IE-360/spring20-miraymatur/blob/master/IE360_Project_Group5.html) is the preview.
